@@ -2,7 +2,7 @@
 Ring World is ECommerce Website & is a clone of CaratLane. It is used for buying Jewellery, Bracelets, Rings and other kind of products. This websites give women access to modern, fine jewellery, that was also wearable everyday. 
 
 ## Deployed Link 
-Visit: https://ringworld.netlify.app  
+Visit: https://caratlane-clone.netlify.app/  
 
 ## Responsive for all screen sizes  
 
